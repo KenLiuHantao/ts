@@ -1,7 +1,6 @@
-import React, { Component } from 'react'
-import ReactDOM from 'react-dom'
+import React from 'react'
 
-class Hello extends Component {
+class Hello extends React.Component {
     render() {
         return (
             <div>
