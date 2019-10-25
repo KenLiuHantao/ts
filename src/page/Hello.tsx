@@ -4,7 +4,7 @@ class Hello extends React.Component {
     render() {
         return (
             <div>
-                <p>Hello world3!</p>
+                <p>Hello world4!</p>
             </div>
         )
     }
